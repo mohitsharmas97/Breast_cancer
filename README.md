@@ -2,13 +2,13 @@
 
 This repository contains a deep learning model trained to classify breast cancer tumors as either malignant or benign based on diagnostic features. The model is built with Keras (TensorFlow) and provides a solid example of a binary classification task.
 
-## 📋 Project Overview
+##  Project Overview
 
 The goal of this project is to accurately predict breast cancer diagnosis from numerical data. It uses a trained Artificial Neural Network (ANN) that takes 10 specific features from a tumor analysis and outputs a probability indicating the likelihood of the tumor being malignant.
 
 ---
 
-## 🧠 Model Details
+## Model Details
 
 The model is a `Sequential` neural network with the following architecture:
 
@@ -24,7 +24,7 @@ The model was compiled with:
 
 ---
 
-## 💾 Dataset
+##  Dataset
 
 The model was trained on the **Breast Cancer Wisconsin (Diagnostic) Data Set** from the UCI Machine Learning Repository, accessed via Kaggle.
 
